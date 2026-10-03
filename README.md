@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/drewv-labs/Posthorn/main/.github/images/icon.svg" alt="Posthorn Logo" width="220"/>
+  <img src="https://raw.githubusercontent.com/drewv-labs/posthorn-duckdb-job-scanner/main/.github/images/icon.svg" alt="Posthorn Logo" width="220"/>
 
   <h1>Posthorn</h1>
   <p><b>Find a damn job like a boss.</b></p>
